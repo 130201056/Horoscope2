@@ -1,0 +1,8 @@
+# Horoscope2
+Horoscope
+
+Bu uygulama kullanıcıya yöneltilen soruların cevaplanmasıyla hangi burçta olduğunun tahmini olarak belirlenmesini sağlayan eğlence amaçlı bir android uygulamasıdır.
+
+Not:Kullanıcıya yöneltilecek sorular;kişisel özellikler, doğum tarihi,sevdiği,ilgilendiği konular vb. dikkate alınacaktır.
+
+BETÜL ÖZTÜRKMENOĞLU-130201014 BÜŞRA YILDIRIM-130201008 MEHMET OĞUZ PAMUKÇU-130201125 AYÇA BOZYEL-130201056 UMUT DOĞAN-130201057
